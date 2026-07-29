@@ -22,3 +22,7 @@ Proyecto desarrollado para la asignatura Programación Web II del Instituto Prof
 - Consultas SQL con Prepared Statements
 - Transacciones MySQL
 - Clientes frecuentes
+
+## Autor
+
+Diego Astudillo Zamora
